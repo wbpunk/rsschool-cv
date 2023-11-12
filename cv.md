@@ -23,17 +23,7 @@
 #### I also have skills in using Linux (Linux Mint)
 
 ## Code Example
-#### function findDifference(a, b) {
-####    var result = a.reduce((sum, current) => sum * current)
-####    var result2 = b.reduce((sum, current) => sum * current)
-####    var num1 = result - result2
-####    var num2 = result2 - result
-####   if (result >= result2) {
-####      return num1
-####   }else{
-####      return num2
-####    }
-####  }
+<image src="C:\Users\Алексей Матиюк\Desktop\codeexample.png" alt="Code Example">
 
 ## Experience
 #### At the moment I have only done two small projects, these are:
