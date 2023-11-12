@@ -21,3 +21,24 @@
 #### 4. DataGrip
 #### 5. Visual Studio Code
 #### I also have skills in using Linux (Linux Mint)
+
+## Code Example
+#### function findDifference(a, b) {
+####    var result = a.reduce((sum, current) => sum * current)
+####    var result2 = b.reduce((sum, current) => sum * current)
+####    var num1 = result - result2
+####    var num2 = result2 - result
+####   if (result >= result2) {
+####      return num1
+####   }else{
+####      return num2
+####    }
+####  }
+
+## Experience
+#### At the moment I have only done two small projects, these are:
+##### 1. Local two-page website using the Bootstrap library and a small amount of Javascript code.
+##### 2. A game with guessing a number using a binary search algorithm written in Go.
+
+7. Education (including courses, seminars, lectures, online learning)
+8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
