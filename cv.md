@@ -1,14 +1,12 @@
 # Matsiyuk Aliaksei
 
 ## Contacts:
-
 #### Phone: +375445596027
 #### E-Mail: amatiyuk05@gmail.com
 #### Telegram: @Weebpuunk
 #### Discord: wbpunk(bogomol447)
 
 # About me:
-
 #### My name is Alexey Matiyuk, I am a beginner Frontend JavaScript developer. I have a great desire to learn, learn new things, and constantly improve my skills in the area I study. I love immersing myself in the process of learning a new topic, writing, improving code or an application, looking for different ways to solve problems given to me in the best and fastest way. Every day I don’t stand still, but learn something new and interesting to me, for example, various foreign languages (Norwegian, Polish, English). I am currently taking a course... After completing the course I plan to get a job at EPAM. I am doing and will do everything possible to achieve my goal.
 
 ## My skills
@@ -31,5 +29,8 @@
 ##### 2. A game with guessing a number using a binary search algorithm written in Go.
 ### https://github.com/wbpunk/HTML-low-.git
 
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## Education
+### I am studying programming at the university, I took a Go course from Stepik, I am currently taking a course from RSSCHOOL(FE/EN)
+
+## English
+### My level of English is (B1). I learn English through books, videos, articles on the Internet, films, podcasts in English and periodically take lessons in the Duolingo app. I study English every day.
