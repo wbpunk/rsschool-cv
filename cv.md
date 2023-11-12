@@ -23,12 +23,13 @@
 #### I also have skills in using Linux (Linux Mint)
 
 ## Code Example
-![](C:\Users\Алексей Матиюк\Desktop\codeexample.png)
+### https://github.com/wbpunk/js-low.git
 
 ## Experience
 #### At the moment I have only done two small projects, these are:
 ##### 1. Local two-page website using the Bootstrap library and a small amount of Javascript code.
 ##### 2. A game with guessing a number using a binary search algorithm written in Go.
+### https://github.com/wbpunk/HTML-low-.git
 
 7. Education (including courses, seminars, lectures, online learning)
 8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
