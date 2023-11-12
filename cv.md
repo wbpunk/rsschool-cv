@@ -23,7 +23,7 @@
 #### I also have skills in using Linux (Linux Mint)
 
 ## Code Example
-<image src="C:\Users\Алексей Матиюк\Desktop\codeexample.png" alt="Code Example">
+<img src="file:///C:/Users/Алексей Матиюк/Desktop/codeexample.png/">
 
 ## Experience
 #### At the moment I have only done two small projects, these are:
